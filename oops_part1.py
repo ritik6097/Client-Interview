@@ -48,7 +48,10 @@ class Person:
 p1=Person("RITIK",23);
 p1.name="RITIKA";
 del p1.age;
+del p1;
 print(p1.name);
 print(p1.age);
 print(p1.myfunc());
+
+
 
