@@ -57,3 +57,4 @@ obj3=Demo();
 print(obj1.get_pointer());
 print(obj2.get_pointer());
 print(obj3.get_pointer());
+
